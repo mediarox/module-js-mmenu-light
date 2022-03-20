@@ -26,7 +26,7 @@ bin/magento setup:upgrade
     let navigationSelector = 'nav.navigation';
     let navigationToggleSelector = '[data-action="toggle-nav"]';
     let navigationActiveUlSelector = 'li.active > ul.submenu';
-    let navigationMobileMediaQuery = '(max-width: 768px)';
+    let navigationMobileMediaQuery = '(max-width: 767px)';
 
     require([
         'jquery',
