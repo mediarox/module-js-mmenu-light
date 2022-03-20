@@ -4,7 +4,12 @@
 
 > The (extremely) lightweight alternative to the mmenu.js plugin for creating off-canvas mobile menus with the exact look and feel.
 
-See original repository for more information: https://github.com/FrDH/mmenu-light
+For more information about "mmenu light", please check out the following links:
+* [Repository](https://github.com/FrDH/mmenu-light)
+* [Demo & documentation](https://www.mmenujs.com/mmenu-light/)
+* [License: CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)
+  * We have not changed the two reused files of "mmenu light"
+  * Author: Fred Heusschen <info@frebsite.nl>
 
 ### Installation
 
