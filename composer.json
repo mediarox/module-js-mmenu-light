@@ -3,7 +3,7 @@
     "description": "Magento 2 Module for mmenu-light.js",
     "homepage": "https://github.com/mediarox/module-js-mmenu-light",
     "type": "magento2-module",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "license": "CC-BY-4.0",
     "autoload": {
         "files": [
