@@ -29,7 +29,6 @@ bin/magento setup:upgrade
     let navigationMobileMediaQuery = '(max-width: 767px)';
 
     require([
-        'jquery',
         'mmenuLight'
     ], function ($) {
     
