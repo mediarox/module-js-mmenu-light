@@ -1,4 +1,4 @@
-# Magento 2 Module for mmenu-light.js (3.1.1)
+# Magento 2 Module for mmenu-light.js (3.2.0)
 
 **This repo is just an integration of original js-library including css into Magento 2.**
 
